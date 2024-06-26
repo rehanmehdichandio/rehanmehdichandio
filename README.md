@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehanmehdichandio" alt="rehanmehdichandio" /></a> </p>
 
-<img align="right" width="400px" src="[C:\Users\Ali Hassan\Downloads\pngtree-advertising-poster-data-analysis-cartoon-flat-picture-image_1774648.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fcartoon-data-analysis&psig=AOvVaw25TkyeRDcums3dlz5ck9HE&ust=1719475651609000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOik5o3o-IYDFQAAAAAdAAAAABAJ)">
+<img align="right" width="400px" src="C:\Users\Ali Hassan\Downloads\pngtree-advertising-poster-data-analysis-cartoon-flat-picture-image_1774648.jpg">
 
 
 - 🌱 I’m currently learning **Python**
