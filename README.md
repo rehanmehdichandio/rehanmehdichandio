@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehanmehdichandio" alt="rehanmehdichandio" /></a> </p>
 
-<img align="right" width="400px" src="E:\MY PICTURES\img1.jpg">
+<img align="right" width="400px" src="[E:\MY PICTURES\img1.jpg](https://github.com/rehanmehdichandio/rehanmehdichandio/blob/main/img1%20.jpg)">
 
 
 - 🌱 I’m currently learning **Python**
