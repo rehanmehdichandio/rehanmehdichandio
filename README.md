@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DATA CLEANING AND DATA VISUALIZATION**
 
-- 📫 How to reach me **rehanmehichandio@gmail.com**
+- 📫 How to reach me **rehanmehdichandio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
