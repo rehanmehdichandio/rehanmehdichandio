@@ -5,7 +5,7 @@
 👋 Hello! I'm Rehan Mehdi, a passionate Data Analyst with a keen interest in transforming data into actionable insights and driving data-driven decisions. With a solid foundation in Python, PowerBI, MySQL, and Excel, I specialize in leveraging data to uncover trends, optimize processes, and support strategic initiatives.
 
 <p align="left">
-  <a href="https://github.com/Jamshedali18?tab=followers">
+  <a href="https://github.com/rehanmehdichandio?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rehanmehdichandio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://github.com/rehanmehdichandio?tab=repositories&sort=stargazers">
